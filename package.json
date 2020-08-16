@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-smb",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base template for smb which focus on linting and test setups",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
